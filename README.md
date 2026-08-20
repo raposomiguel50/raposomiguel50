@@ -6,7 +6,8 @@
 
 I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The useful results are documented publicly so each project can serve both as working software and as reusable engineering knowledge.
 
-[Open Miguel's Game Dev Lab](https://raposomiguel50.github.io/)
+[Open Miguel's Game Dev Lab](https://raposomiguel50.github.io/)  
+[ModDB developer profile](https://www.moddb.com/company/miguels-game-dev-lab)
 
 ## Current project
 
@@ -22,6 +23,7 @@ The project includes handheld-focused controls, Android text input, audio integr
 - [Engineering knowledge base](https://raposomiguel50.github.io/projects/system-shock-android/knowledge/)
 - [Releases](https://github.com/raposomiguel50/system-shock-android/releases)
 - [Feedback and testing](https://github.com/raposomiguel50/system-shock-android/issues/new/choose)
+- [ModDB](https://www.moddb.com/mods/system-shock-android)
 
 ## Development focus
 
@@ -36,4 +38,5 @@ The project includes handheld-focused controls, Android text input, audio integr
 ## Contact
 
 - [Miguel's Game Dev Lab](https://raposomiguel50.github.io/)
+- [ModDB developer profile](https://www.moddb.com/company/miguels-game-dev-lab)
 - [LinkedIn](https://www.linkedin.com/in/miguel-raposo-7192a251/)
