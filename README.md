@@ -14,7 +14,7 @@ I use practical game ports to study hardware, operating-system boundaries, rende
 
 An unofficial native Android/ARM64 adaptation based on [Shockolate](https://github.com/Interrupt/systemshock), developed with the Retroid Pocket 5 as the primary reference device.
 
-The project includes handheld-focused controls, Android text input, audio integration, a preserved 4:3 presentation, a reversible Hor+ widescreen path, reproducible build documentation and an open engineering knowledge base.
+The project includes handheld-focused controls, Android text input, audio integration, a preserved 4:3 no-stretch presentation, reproducible build documentation and an open engineering knowledge base. The Android IME keyboard shown during text entry is the only platform-specific visual addition to the original game presentation.
 
 - [Project page](https://raposomiguel50.github.io/projects/system-shock-android/)
 - [Public source](https://github.com/raposomiguel50/system-shock-android)
