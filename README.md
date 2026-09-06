@@ -4,9 +4,9 @@
 
 **Learning hardware through ports. Building native games from what I learn.**
 
-I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The useful results are documented publicly so each project can serve both as working software and as reusable engineering knowledge.
+I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The results are documented publicly so each project can support both practical use and further technical learning.
 
-The lab favours preservation, containment, focus, restoration and minimal intervention: small evidence-backed improvements, explicit limits and open documentation rather than feature escalation, hype or change for its own sake.
+The lab favours preservation, containment, focus, restoration and minimal intervention. Changes are selected according to project purpose, target-platform constraints and evidence.
 
 [Open Miguel's Game Dev Lab](https://raposomiguel50.github.io/)  
 [Development method and AI assistance](https://raposomiguel50.github.io/method/)  
@@ -14,11 +14,9 @@ The lab favours preservation, containment, focus, restoration and minimal interv
 
 ## Development method
 
-The lab is human-directed and AI-assisted. I define the project goals, design, process, constraints, creative and critical decisions, target hardware, acceptance criteria and final approval. ChatGPT provides substantial assistance with calculations, programming, automation, analysis, documentation and repetitive technical work.
+The lab is human-directed and AI-assisted. I define the project goals, design, process, constraints, target hardware, acceptance criteria and final approval. ChatGPT provides substantial assistance with calculations, programming, automation, analysis, documentation and repetitive technical work.
 
-The workflow itself is part of my contribution. I use explicit checkpoints, versioned handovers, external project state, evidence bundles, hashes, clean-clone validation and real-hardware QA to preserve continuity and to compensate for AI limitations such as context loss, incorrect assumptions and repeated errors.
-
-AI output is not accepted automatically. It can be modified or rejected when it does not meet the intended design, evidence or quality standard. ChatGPT saves significant implementation time, but it cannot independently preserve the project's intent, perform the physical-device judgment or continue these specific projects autonomously without my direction, constraints, evidence and approvals.
+I use explicit checkpoints, versioned handovers, hashes, clean-clone validation and real-hardware QA to preserve continuity and keep conclusions tied to evidence.
 
 [Read the full development method](https://raposomiguel50.github.io/method/)
 
@@ -43,9 +41,7 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 An unofficial RG34XX/H700 native-port integration based on [Project Picori](https://github.com/EstebanPdN/zelda-tmc-3ds), developed with the ANBERNIC RG34XX-H and muOS as the validated reference configuration.
 
-This project is also a case study in preservation-led engineering. It documents why some changes were deliberately kept small, why some experiments were rejected, how timing/audio/benchmark evidence was interpreted and where the current reconstruction and licensing boundaries remain.
-
-The public repository preserves source patches, launcher/runtime integration, upstream provenance, engineering evidence and reusable knowledge. It contains no ROM, extracted Nintendo assets or public V1 executable.
+The public project documents the H700 integration together with timing, audio and benchmark findings, patch history, validation boundaries and reconstruction status. It contains no ROM, extracted Nintendo assets or public V1 executable.
 
 - [Project page](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/)
 - [Engineering knowledge](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/knowledge/)
@@ -53,19 +49,19 @@ The public repository preserves source patches, launcher/runtime integration, up
 - [Public source](https://github.com/raposomiguel50/minish-cap-rg34xx)
 - [Project philosophy](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PHILOSOPHY.md)
 - [Patch history](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PATCH_SERIES.md)
-- [Validation and claim limits](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/VALIDATION.md)
+- [Validation](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/VALIDATION.md)
 - [Project Picori upstream](https://github.com/EstebanPdN/zelda-tmc-3ds)
 - [PortMaster status](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PORTMASTER_STATUS.md)
 
 ## Development focus
 
-- Preservation-led native game ports and platform-specific development
-- Contained, incremental improvements rather than feature escalation for its own sake
+- Native game ports and platform-specific development
+- Preservation-led, incremental integration work
 - Retro hardware and constrained systems
 - Android/ARM64 and handheld gaming devices
 - Rendering, controls, audio and platform integration
 - Reproducible builds and evidence-based validation
-- Open technical documentation, lessons learned and failed experiments
+- Open technical documentation and reusable engineering knowledge
 - Human-directed, AI-assisted development with explicit attribution
 - Applying porting knowledge to original native games
 
