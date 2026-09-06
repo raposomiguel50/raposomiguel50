@@ -6,6 +6,8 @@
 
 I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The useful results are documented publicly so each project can serve both as working software and as reusable engineering knowledge.
 
+The lab favours preservation, containment, focus, restoration and minimal intervention: small evidence-backed improvements, explicit limits and open documentation rather than feature escalation, hype or change for its own sake.
+
 [Open Miguel's Game Dev Lab](https://raposomiguel50.github.io/)  
 [Development method and AI assistance](https://raposomiguel50.github.io/method/)  
 [ModDB developer profile](https://www.moddb.com/company/miguels-game-dev-lab)
@@ -39,23 +41,26 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 ### The Minish Cap - RG34XX
 
-An unofficial RG34XX/H700 native-port integration based on
-[Project Picori](https://github.com/EstebanPdN/zelda-tmc-3ds), developed with
-the ANBERNIC RG34XX-H and muOS as the validated reference configuration.
+An unofficial RG34XX/H700 native-port integration based on [Project Picori](https://github.com/EstebanPdN/zelda-tmc-3ds), developed with the ANBERNIC RG34XX-H and muOS as the validated reference configuration.
 
-The public repository preserves source patches, launcher/runtime integration,
-upstream provenance and engineering evidence. It contains no ROM, extracted
-Nintendo assets or public V1 executable.
+This project is also a case study in preservation-led engineering. It documents why some changes were deliberately kept small, why some experiments were rejected, how timing/audio/benchmark evidence was interpreted and where the current reconstruction and licensing boundaries remain.
+
+The public repository preserves source patches, launcher/runtime integration, upstream provenance, engineering evidence and reusable knowledge. It contains no ROM, extracted Nintendo assets or public V1 executable.
 
 - [Project page](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/)
+- [Engineering knowledge](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/knowledge/)
+- [Reconstruction and reproducibility](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/reproduce/)
 - [Public source](https://github.com/raposomiguel50/minish-cap-rg34xx)
+- [Project philosophy](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PHILOSOPHY.md)
+- [Patch history](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PATCH_SERIES.md)
+- [Validation and claim limits](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/VALIDATION.md)
 - [Project Picori upstream](https://github.com/EstebanPdN/zelda-tmc-3ds)
 - [PortMaster status](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PORTMASTER_STATUS.md)
-- [Development method](https://raposomiguel50.github.io/method/)
 
 ## Development focus
 
-- Native game ports and platform-specific development
+- Preservation-led native game ports and platform-specific development
+- Contained, incremental improvements rather than feature escalation for its own sake
 - Retro hardware and constrained systems
 - Android/ARM64 and handheld gaming devices
 - Rendering, controls, audio and platform integration
