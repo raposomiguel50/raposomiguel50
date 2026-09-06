@@ -20,7 +20,7 @@ AI output is not accepted automatically. It can be modified or rejected when it 
 
 [Read the full development method](https://raposomiguel50.github.io/method/)
 
-## Current project
+## Current projects
 
 ### System Shock - Android
 
@@ -36,6 +36,22 @@ The project includes handheld-focused controls, Android text input, audio integr
 - [Releases](https://github.com/raposomiguel50/system-shock-android/releases)
 - [Feedback and testing](https://github.com/raposomiguel50/system-shock-android/issues/new/choose)
 - [ModDB](https://www.moddb.com/mods/system-shock-android)
+
+### The Minish Cap - RG34XX
+
+An unofficial RG34XX/H700 native-port integration based on
+[Project Picori](https://github.com/EstebanPdN/zelda-tmc-3ds), developed with
+the ANBERNIC RG34XX-H and muOS as the validated reference configuration.
+
+The public repository preserves source patches, launcher/runtime integration,
+upstream provenance and engineering evidence. It contains no ROM, extracted
+Nintendo assets or public V1 executable.
+
+- [Project page](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/)
+- [Public source](https://github.com/raposomiguel50/minish-cap-rg34xx)
+- [Project Picori upstream](https://github.com/EstebanPdN/zelda-tmc-3ds)
+- [PortMaster status](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PORTMASTER_STATUS.md)
+- [Development method](https://raposomiguel50.github.io/method/)
 
 ## Development focus
 
