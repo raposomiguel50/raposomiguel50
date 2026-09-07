@@ -39,21 +39,15 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 ### The Minish Cap - RG34XX
 
-An unofficial H700/Linux integration based on EstebanPdN's [Project Picori-derived port](https://github.com/EstebanPdN/zelda-tmc-3ds). The recorded target is the RG34XX with muOS; historical project records use the label RG34XX-H.
+An unofficial native port for the GBA-style RG34XX handheld with muOS. It builds on EstebanPdN's [Project Picori-derived source](https://github.com/EstebanPdN/zelda-tmc-3ds).
 
-The published work contains [15 historical patches and a launcher](https://github.com/raposomiguel50/minish-cap-rg34xx/tree/90fd77a82d579de9460f2de1167a95ec264e57c3). Specific changes address AArch64 build/link configuration, menu hints, quit handling, conditional audio resampling and presentation scheduling. [Archived records](https://github.com/raposomiguel50/minish-cap-rg34xx/tree/e0f8c056bb94e8112a4b142b6addce78c9deb53b/docs/evidence/2026-09-07) document menu/exit checks, two timing captures and a later operator-accepted session.
+The work adapts menus, shutdown handling and presentation timing. The aim is to preserve the existing game, not add new creative content.
 
-Restoration and curation are the approved decision framework, not a claim that original GBA gameplay bugs have been corrected. The [technical report and supplement](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/TECHNICAL_REPORT.md) distinguish source changes, measurements and unresolved diagnostics. Measured energy savings and complete build reproducibility are not established. No ROM, extracted Nintendo assets or public V1 executable is included.
+Short lessons explain the choices. The technical report provides code references, test results and known limits.
 
-- [Project page](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/)
-- [Engineering knowledge](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/knowledge/)
-- [Reconstruction and reproducibility](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/reproduce/)
-- [Public source](https://github.com/raposomiguel50/minish-cap-rg34xx)
-- [Project philosophy](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PHILOSOPHY.md)
-- [Patch history](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PATCH_SERIES.md)
-- [Validation](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/VALIDATION.md)
-- [Pinned source foundation](https://github.com/EstebanPdN/zelda-tmc-3ds/tree/e72663ca4059dabf9dbf7f03c36fc791d90b8db5)
-- [PortMaster status](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PORTMASTER_STATUS.md)
+**Available:** 15 historical integration patches, a launcher and guides. **No public game executable or proprietary assets are included.**
+
+[Explore the project](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/) · [Learn from the work](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/knowledge/) · [Source and evidence](https://github.com/raposomiguel50/minish-cap-rg34xx)
 
 ## Development focus
 
