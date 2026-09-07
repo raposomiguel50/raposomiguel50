@@ -41,7 +41,7 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 An unofficial RG34XX/H700 native-port integration based on [Project Picori](https://github.com/EstebanPdN/zelda-tmc-3ds), developed with the ANBERNIC RG34XX-H and muOS as the validated reference configuration.
 
-The public project documents the H700 integration together with timing, audio and benchmark findings, patch history, validation boundaries and reconstruction status. It contains no ROM, extracted Nintendo assets or public V1 executable.
+The project is approached as **technical restoration and curation**: preserve the original creative work, correct justified technical defects, present a deliberate preservation reference and use native hardware margin for reliability and efficiency rather than new creative content. The public record includes timing, audio and benchmark findings, patch history, validation boundaries and reconstruction status. It contains no ROM, extracted Nintendo assets or public V1 executable.
 
 - [Project page](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/)
 - [Engineering knowledge](https://raposomiguel50.github.io/projects/minish-cap-rg34xx/knowledge/)
