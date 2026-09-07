@@ -41,7 +41,7 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 An unofficial H700/Linux integration based on EstebanPdN's [Project Picori-derived port](https://github.com/EstebanPdN/zelda-tmc-3ds). The recorded target is the RG34XX with muOS; historical project records use the label RG34XX-H.
 
-The published work contains 15 historical patches and a launcher. Specific changes address AArch64 build/link configuration, menu hints, quit handling, conditional audio resampling and presentation scheduling. Archived records document menu/exit checks, two timing captures and a later operator-accepted session (Miguel's Game Dev Lab, 2026; Raposo, 2026).
+The published work contains [15 historical patches and a launcher](https://github.com/raposomiguel50/minish-cap-rg34xx/tree/90fd77a82d579de9460f2de1167a95ec264e57c3). Specific changes address AArch64 build/link configuration, menu hints, quit handling, conditional audio resampling and presentation scheduling. [Archived records](https://github.com/raposomiguel50/minish-cap-rg34xx/tree/e0f8c056bb94e8112a4b142b6addce78c9deb53b/docs/evidence/2026-09-07) document menu/exit checks, two timing captures and a later operator-accepted session.
 
 Restoration and curation are the approved decision framework, not a claim that original GBA gameplay bugs have been corrected. The [technical report and supplement](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/TECHNICAL_REPORT.md) distinguish source changes, measurements and unresolved diagnostics. Measured energy savings and complete build reproducibility are not established. No ROM, extracted Nintendo assets or public V1 executable is included.
 
@@ -54,15 +54,6 @@ Restoration and curation are the approved decision framework, not a claim that o
 - [Validation](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/VALIDATION.md)
 - [Pinned source foundation](https://github.com/EstebanPdN/zelda-tmc-3ds/tree/e72663ca4059dabf9dbf7f03c36fc791d90b8db5)
 - [PortMaster status](https://github.com/raposomiguel50/minish-cap-rg34xx/blob/main/docs/PORTMASTER_STATUS.md)
-
-<details>
-<summary>Minish Cap references</summary>
-
-Miguel's Game Dev Lab. (2026). *Archived RG34XX integration and runtime records* [Data set and test records]. GitHub. https://github.com/raposomiguel50/minish-cap-rg34xx/tree/e0f8c056bb94e8112a4b142b6addce78c9deb53b/docs/evidence/2026-09-07
-
-Raposo, M. (2026). *The Minish Cap: RG34XX integration patches and launcher* (Revision 90fd77a82d579de9460f2de1167a95ec264e57c3) [Source code]. GitHub. https://github.com/raposomiguel50/minish-cap-rg34xx/tree/90fd77a82d579de9460f2de1167a95ec264e57c3
-
-</details>
 
 ## Development focus
 
