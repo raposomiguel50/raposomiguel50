@@ -4,7 +4,7 @@
 
 **Learning hardware through ports. Building native games from what I learn.**
 
-I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The results are documented publicly so each project can support both practical use and further technical learning.
+I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio,performance and release engineering. The results are documented publicly so each project can support both practical use and further technical learning.
 
 The lab favours preservation, containment, focus, restoration and minimal intervention. Changes are selected according to project purpose, target-platform constraints and evidence.
 
@@ -41,7 +41,7 @@ The project includes handheld-focused controls, Android text input, audio integr
 
 An unofficial native port for the GBA-style RG34XX handheld with muOS. It builds on EstebanPdN's [Project Picori-derived source](https://github.com/EstebanPdN/zelda-tmc-3ds).
 
-The work adapts menus, shutdown handling and presentation timing. The aim is to preserve the existing game, not add new creative content.
+The reference uses integer-scaled imagery and keeps port settings separate from gameplay. The aim is to preserve the existing game, not add new creative content.
 
 Short lessons explain the choices. The technical report provides code references, test results and known limits.
 
