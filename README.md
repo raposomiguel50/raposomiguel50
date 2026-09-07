@@ -4,7 +4,7 @@
 
 **Learning hardware through ports. Building native games from what I learn.**
 
-I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio,performance and release engineering. The results are documented publicly so each project can support both practical use and further technical learning.
+I use practical game ports to study hardware, operating-system boundaries, rendering, input, audio, performance and release engineering. The results are documented publicly so each project can support both practical use and further technical learning.
 
 The lab favours preservation, containment, focus, restoration and minimal intervention. Changes are selected according to project purpose, target-platform constraints and evidence.
 
