@@ -38,4 +38,4 @@ Source revisions, test records and handovers keep the work traceable across sess
 
 ## Contact
 
-[GitHub feedback](https://github.com/raposomiguel50/system-shock-android/issues/new/choose) · [ModDB](https://www.moddb.com/company/miguels-game-dev-lab) · [LinkedIn](https://www.linkedin.com/in/miguel-raposo-7192a251/)
+[System Shock feedback](https://github.com/raposomiguel50/system-shock-android/issues/new/choose) · [Minish Cap feedback](https://github.com/raposomiguel50/minish-cap-rg34xx/issues) · [ModDB](https://www.moddb.com/company/miguels-game-dev-lab) · [LinkedIn](https://www.linkedin.com/in/miguel-raposo-7192a251/)
