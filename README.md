@@ -10,7 +10,7 @@ The lab focuses on preserving existing games, adapting them to new hardware and 
 
 [Visit the lab](https://raposomiguel50.github.io/) · [Development method](https://raposomiguel50.github.io/method/)
 
-## System Shock — Android
+## System Shock — Native port for Android
 
 An unofficial Android/ARM64 port based on [Shockolate](https://github.com/Interrupt/systemshock), tested on the Retroid Pocket 5.
 
@@ -20,7 +20,7 @@ Version 1.0.0 includes handheld controls, optional touch input, Android text ent
 
 [Project and installation](https://raposomiguel50.github.io/projects/system-shock-android/) · [Download v1.0.0](https://github.com/raposomiguel50/system-shock-android/releases/tag/v1.0.0) · [Source](https://github.com/raposomiguel50/system-shock-android)
 
-## The Legend of Zelda: The Minish Cap — RG34XX
+## The Legend of Zelda: The Minish Cap — Native port for RG34XX
 
 An unofficial native port for the GBA-style RG34XX handheld with muOS. It builds on [EstebanPdN's Project Picori-derived source](https://github.com/EstebanPdN/zelda-tmc-3ds).
 
