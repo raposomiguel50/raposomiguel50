@@ -20,7 +20,7 @@ Version 1.0.0 includes handheld controls, optional touch input, Android text ent
 
 [Project and installation](https://raposomiguel50.github.io/projects/system-shock-android/) · [Download v1.0.0](https://github.com/raposomiguel50/system-shock-android/releases/tag/v1.0.0) · [Source](https://github.com/raposomiguel50/system-shock-android)
 
-## The Minish Cap — RG34XX
+## The Legend of Zelda: The Minish Cap — RG34XX
 
 An unofficial native port for the GBA-style RG34XX handheld with muOS. It builds on [EstebanPdN's Project Picori-derived source](https://github.com/EstebanPdN/zelda-tmc-3ds).
 
